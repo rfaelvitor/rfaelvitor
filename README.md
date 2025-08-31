@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá 👋, eu sou Rafael Abreu
 
-<!--
-**rfaelvitor/rfaelvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Gosto de Front-end, Back-end e Análise de Dados  
+🚀 Sempre em constante desenvolvimento, aprendendo novas tecnologias e experimentando projetos pessoais  
+🤓 Curioso por aprender coisas novas e colocar em prática  
 
-Here are some ideas to get you started:
+## Projetos principais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Portfolio](link-do-repo) – Meu site pessoal com meus projetos  
+- [Text Bot | IA Generator](link-do-repo) – Bot que gera textos e imagens usando IA  
+- [Login Page](link-do-repo) – Projeto de login em HTML/CSS/JS  
+
+📫 Entre em contato: rafael0920abreu@gmail.com
+
