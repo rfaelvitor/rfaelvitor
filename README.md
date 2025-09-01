@@ -3,7 +3,7 @@
 🎓 Estudante de Engenharia de Software  
 💻 Gosto de Front-end, Back-end e Análise de Dados  
 🚀 Sempre em constante desenvolvimento, aprendendo novas tecnologias e experimentando projetos pessoais  
-🤓 Curioso por aprender coisas novas e colocar em prática  
+😁 Curioso por aprender coisas novas e colocar em prática  
 
 ## Projetos principais
 
