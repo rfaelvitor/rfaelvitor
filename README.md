@@ -5,23 +5,30 @@
 🚀 Sempre em constante desenvolvimento, aprendendo novas tecnologias e experimentando projetos pessoais.  
 😁 Curioso por aprender coisas novas e colocar em prática.  
 
-## Projetos principais
+---
 
-- [Portfolio](https://github.com/rfaelvitor/portfolio) – Meu site pessoal com meus projetos. 
-- [Text Bot | IA Generator](https://github.com/rfaelvitor/AI_Generator) – Bot que gera textos e imagens usando IA.
-- [Projeto de Votação em Java](https://github.com/rfaelvitor/votingSystem) – Sistema de votação em Java rodando no console.
+## 📂 Projetos principais
 
-## 🧑‍💻 Tecnologias que conheço
+<a href="https://github.com/rfaelvitor/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio"/>
+</a><br>
+<a href="https://github.com/rfaelvitor/AI_Generator">
+  <img src="https://img.shields.io/badge/Text_Bot_|_IA_Generator-red?style=for-the-badge&logo=github" alt="Text Bot & IA"/>
+</a><br> 
+<a href="https://github.com/rfaelvitor/votingSystem">
+  <img src="https://img.shields.io/badge/Sistema_de_Votação_(Console)-orange?style=for-the-badge&logo=github" alt="Sistema de Votação"/>
+</a><br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
+## 🚀 Tecnologias que conheço
 
-
-📫 Entre em contato: rafael0920abreu@gmail.com.
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
+</p>
