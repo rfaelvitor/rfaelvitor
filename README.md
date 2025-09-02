@@ -7,20 +7,6 @@
 
 ---
 
-## 📂 Projetos principais
-
-<a href="https://github.com/rfaelvitor/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio"/>
-</a><br>
-<a href="https://github.com/rfaelvitor/AI_Generator">
-  <img src="https://img.shields.io/badge/Text_Bot_|_IA_Generator-red?style=for-the-badge&logo=github" alt="Text Bot & IA"/>
-</a><br> 
-<a href="https://github.com/rfaelvitor/votingSystem">
-  <img src="https://img.shields.io/badge/Sistema_de_Votação_(Console)-orange?style=for-the-badge&logo=github" alt="Sistema de Votação"/>
-</a><br>
-
----
-
 ## 🚀 Tecnologias que conheço
 
 <p align="left">
@@ -32,3 +18,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
 </p>
+
+---
+
+## 📂 Projetos principais
+
+<a href="https://github.com/rfaelvitor/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio"/>
+</a><br>
+<a href="https://github.com/rfaelvitor/AI_Generator">
+  <img src="https://img.shields.io/badge/Text_Bot_|_IA_Generator-red?style=for-the-badge&logo=github" alt="Text Bot & IA"/>
+</a><br> 
+<a href="https://github.com/rfaelvitor/votingSystem">
+  <img src="https://img.shields.io/badge/Sistema_de_Votação_(Console)-orange?style=for-the-badge&logo=github" alt="Sistema de Votação"/>
+</a><br>
